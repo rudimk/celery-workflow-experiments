@@ -4,7 +4,7 @@ autosemver==0.5.3
 backports.functools-lru-cache==1.5
 billiard==3.5.0.4
 blinker==1.4
-celery==4.2.1
+celery==5.2.2
 certifi==2018.10.15
 chardet==3.0.4
 configobj==5.0.6
